@@ -1,4 +1,4 @@
-#' An eighties inspired ggplot theme
+#' Yum Yum Grape
 #'
 #' @return
 #' @export
